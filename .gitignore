@@ -1,2 +1,3 @@
 request-files/*
 tmp/*
+tools/*/.git/
